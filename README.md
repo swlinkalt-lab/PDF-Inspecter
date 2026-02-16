@@ -1,4 +1,3 @@
-# PDF-Inspecter
 # PDF Inspector Business
 
 ## 🌟 日本語で読む場合
