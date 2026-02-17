@@ -44,7 +44,15 @@ No technical knowledge is required — just select a folder, enter your keywords
 - **Bilingual interface**: English & Japanese  
 
 > Transform hours of tedious PDF review into minutes.
+---
 
+### See the Transformation in File Organization
+
+Before using PDF Inspector Business:  
+![Explorer Before](./assets/input_folder_EN.png)
+
+After extraction and sorting:  
+![Explorer After](./assets/output_folder_EN.png)
 
 ---
 
