@@ -3,11 +3,6 @@
 
 ---
 
-## 🌐 Note for Japanese Users
-日本語で読む場合はこちら → [README_JP.md](./README_JP.md)
-
----
-
 ## 🚨 Important Notice
 
 **PDF Inspector Business is a professional bulk PDF keyword search tool**  
