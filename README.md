@@ -1,201 +1,196 @@
 # PDF Inspector Business
-*(High-Speed Bulk PDF Keyword Search Tool for Windows)*
+**A professional PDF keyword search tool for Windows – extract only the PDFs that require human review from hundreds at once.**
 
 ---
 
-## 🚨 Important Notice
+Are you spending hours opening **dozens or even hundreds of PDFs one by one**?
 
-**PDF Inspector Business is a professional bulk PDF keyword search tool**  
-designed to help users quickly narrow down PDF files  
-that require **human review and verification**.
+Contracts, specifications, reports, audit documents – as the number of PDFs grows, the act of simply reading them often becomes a bottleneck.
 
-By scanning large numbers of PDFs at once,  
-it identifies files that are **likely to contain specific keywords**,  
-significantly reducing time spent on manual checking.
+**PDF Inspector Business** helps you focus only on the PDFs that matter. By scanning for keywords you specify, it **automatically extracts the files that need human review**, letting you skip unnecessary reading.
 
-### Ideal for
+**Turn “read everything” into “review only what matters” and dramatically reduce time spent on verification, audits, and reporting.**
 
-- Professionals managing large volumes of PDF documents  
-- Teams reviewing contracts, reports, and specifications  
-- Anyone looking to cut hours off repetitive PDF review tasks  
+> 💡 Note: This is **not a PDF reader**.  
+> It’s a tool to **select only the PDFs you need to review**.
 
 ---
-<!-- GIF demo -->
+
+## 😩 Common Workflow Pain Points
+
+- Monday morning: facing **200+ PDF contracts** and not knowing where to start  
+- Wanting to check only documents containing specific terms but having no simple way to do it  
+- Time spent on reading delays **decision-making, follow-ups, and next tasks**  
+
 ![PDF Inspector Demo](./assets/demo_en.gif)
-> Focus your time on making decisions, not digging through files.
 
-> "I was facing hundreds of PDFs to review...  
-> Now I can select the files I actually need to check in just minutes!"
-
----
-### ⚠ Please Note
-
-PDF Inspector Business is **not a legal-grade document comparison tool**  
-and does **not guarantee exact or complete text matching**.
-
-Final decisions and verification should always be performed  
-by a **human reviewer**.
----
-
-## ✅ Who Should Use PDF Inspector Business
-
-- Legal, compliance, or administrative teams  
-- Project managers handling multiple document sources  
-- Analysts who need fast, reliable **bulk PDF keyword searches**
-
-No technical knowledge is required — just select a folder, enter your keywords, and let the software do the work.
+> “Do I really have to open all 200 PDFs?”  
+> “Thanks to PDF Inspector, I narrowed it down to just **10 files in minutes**.”
 
 ---
 
-## ⚡ Key Benefits / Why You'll Love It
+## ⚠ Important Notice
 
-- **Scan hundreds of PDFs instantly** (up to 300 files per run)  
-- **AND / OR keyword search** to pinpoint exactly what you need  
-- **Preview Mode (dry-run)** to estimate matches before extraction  
-- **Automatic extraction** to a designated folder for streamlined workflow  
-- **Selective OCR** for pages with insufficient text  
-- **Bilingual interface**: English & Japanese  
+PDF Inspector Business is **not a replacement for human judgment**.  
 
-> Transform hours of tedious PDF review into minutes.
+- It does **not guarantee full text accuracy or exact matching**.  
+- Its purpose is to **help you efficiently select PDFs that require review**.  
+- Final verification must always be performed by a human.
+
+Using the tool within this framework **significantly reduces the workload of reviewing PDFs**.
+
 ---
 
-### See the Transformation in File Organization
+## ✅ What You Can Do with PDF Inspector Business
 
-Before using PDF Inspector Business:  
+- **Scan entire folders of PDFs**  
+  → No more opening each PDF one by one  
+- **Keyword search with AND / OR support**  
+  → Instantly find only the documents that matter  
+- **Extract and organize PDFs**  
+  → Share the results directly with your team or manager  
+
+> Spend less time on tedious checks and **more time on decision-making and follow-up actions**.
+
+---
+
+## 📁 Before & After File Organization
+
+**Before:** Hundreds of PDFs, unsure what to check  
 ![Explorer Before](./assets/input_folder_EN.png)
 
-After extraction and sorting:  
+**After:** Only relevant PDFs extracted and neatly organized  
 ![Explorer After](./assets/output_folder_EN.png)
 
 ---
-### 🏢 Common Use Cases
 
-- Legal teams reviewing **hundreds of contract PDFs** on a Monday morning  
-- Project managers checking **specifications from multiple vendors**  
-- Administrative staff preparing for audits by extracting **only relevant documents**  
+### 🏢 Typical Use Cases
 
-PDF Inspector Business helps you move from  
-**reading everything**  
-to **reviewing only what truly matters**.
+- Legal teams checking **hundreds of contracts** every Monday morning  
+- Project managers reviewing **specifications from multiple vendors** at project kickoff  
+- Administrative teams extracting **only documents containing certain keywords** before audits or reviews  
 
----
-
-## 📂 Supported PDF Types & Limitations
-
-### Works Best With
-
-- Digital PDFs with **selectable text**  
-- Horizontal text layout documents in English or Japanese  
-
-### May Produce Unreliable Results With
-
-- Vertical text layout PDFs  
-- Handwritten or image-only PDFs  
-- PDFs with **tiny, blurred, or unclear text**  
-
-> OCR is applied automatically when text is insufficient, but accuracy depends on document quality.
+PDF Inspector Business **turns “read everything” into “review only what matters”**.
 
 ---
 
-## 🏃 How to Get Started
+## 📂 Supported PDFs & Notes
 
-1. Launch **PDF Inspector Business (exe)**  
-2. Select the folder containing your PDFs (max 300 files; recommended ≤100)  
-3. Enter up to 5 keywords (select from past history if needed)  
-4. Choose **AND / OR** matching logic  
-5. Enable **Preview Mode** to see estimated matches (optional)  
-6. Click **Run** to process files  
+**Supported:**  
+- Text-based PDFs created on PCs  
+- Selectable, copyable horizontal text (Japanese / English)  
 
-> Preview Mode helps you plan before committing to extraction.
+**May require caution:**  
+- Vertical text or handwritten PDFs  
+- Image-only scanned PDFs  
+- PDFs with very small or unclear text  
 
----
-
-## 🔒 Privacy & Security
-
-- **100% offline** operation — no internet connection required  
-- All PDFs, extracted results, and logs remain **on your local PC**  
-- No data is transmitted to third parties  
-
-> Perfect for confidential or sensitive documents.
+> OCR assistance is available for low-text pages, but **full recognition is not guaranteed**.
 
 ---
 
-## 💳 License & Usage Terms
+## ⚡ Key Features
+
+| Feature | Description |
+|--------|-------------|
+| Bulk PDF Analysis | Load up to 300 PDFs in a folder at once |
+| Keyword Search | Multiple keywords with AND / OR support (up to 5 terms) |
+| OCR Assistance | Automatic OCR on pages difficult to read |
+| Preview Mode | Check hit counts before extraction |
+| Extraction & Organization | Output matched PDFs to a folder |
+| Execution Log | Automatically saved, track your work history |
+| Multi-language UI | Japanese / English |
+
+---
+
+## 🖥️ System Requirements
+
+- Windows 10 / 11  
+- Standard PC (no admin privileges required)  
+- Only PDFs in the selected folder (subfolders not supported)  
+
+---
+
+## 🏃 How to Use
+
+1. Launch PDF Inspector Business (exe)  
+2. Select a PDF folder (up to 300 files; <100 recommended)  
+3. Enter keywords (up to 5)  
+4. Choose AND / OR  
+5. Select **Preview Mode** or run directly  
+6. Click Execute  
+
+> Using Preview Mode first is recommended for safety.
+
+---
+
+## 🔒 Data Handling & Privacy
+
+- Fully offline operation  
+- PDFs, results, and logs remain **on your PC**  
+- No data is sent to external servers  
+
+> Safe for confidential documents.
+
+---
+
+## 💳 License
 
 - **1 license per PC**  
-- Additional PCs require separate licenses  
-- **Perpetual license** — use indefinitely without expiration  
+- Additional purchase required for multiple PCs  
+- **Perpetual license** (one-time purchase, no expiry)  
 
 ---
 
-## 💰 Purchase / License Fee
+## 💳 Purchase
 
-- One-time purchase: **$178 (≈¥27,800 JPY)**  
-- Includes **perpetual license** and **first-year updates & support**
-- Secure purchase via Stripe: [Buy Now]
-- 
-  https://buy.stripe.com/6oUeVd2Km3TQgK43HG7EQ00
+- Reference price: **$178** (safe Stripe payment)  
+- Purchase here: [Stripe Payment Link](https://buy.stripe.com/6oUeVd2Km3TQgK43HG7EQ00)  
 
+> Final price may vary slightly due to currency exchange or fees.
 
 ---
 
 ## 🔄 Updates & Support
 
-### First Year
+**First year:**  
+- Includes updates & support  
+- Bug fixes, feature improvements, Windows compatibility updates  
 
-- Includes updates and support  
-- Bug fixes, feature improvements, Windows compatibility updates
+**From second year onward:**  
+- Optional update & support renewal  
+- Purchased version remains usable without renewal  
 
-### Subsequent Years
+**Renewal Rules:**  
+- Less than 1 year after expiry → standard renewal  
+- Over 1 year → re-enrollment may incur fees  
 
-- Optional renewal for new versions and ongoing support  
-- Existing version continues to work without renewal
-
-### Renewal Policy
-
-- Renewal within 1 year → standard 1-year renewal  
-- Renewal after 1 year → reactivation (may include fee)  
-
-> Fair and flexible support for continuous users.
+> Ensures fair treatment for long-term users.
 
 ---
 
 ## ⚠️ Disclaimer
 
-- Tested in current Windows environments at release  
-- OS updates may impact functionality  
-- Full operation across all Windows setups **cannot be guaranteed**
+- Tested in Windows development environment  
+- Some features may be affected by future OS updates  
+- No guarantee for all environments
 
 ---
 
-## 📥 Re-download Policy
+## 📥 Re-download
 
-- Accidental deletion or PC replacement? Contact support  
-- Re-download available for purchase version or within active support period  
+- Lost file or PC replacement? Re-download is available **after verifying purchase history**  
+- Version provided is either the purchased version or latest within support period  
 
 ---
 
 ## 📩 Contact
 
-**swlinkalt@gmail.com**
+**swlinkalt@gmail.com**  
 
 ---
 
-## 🌟 SEO-Optimized Keywords for Search
-
-- Bulk PDF keyword search Windows  
-- PDF review automation tool  
-- Contract and report PDF checker  
-- AND OR PDF search software  
-- Fast PDF document scanning  
-
-> These keywords are optimized for search engines to help users discover PDF Inspector Business quickly.
-
----
-
-💡 **Summary**
-
-- Reduce manual PDF review by **50–70%**  
-- Perform **large-scale keyword checks** quickly, accurately, and securely  
-- Ideal for legal, administrative, and project management teams  
-- Works with **English and Japanese PDFs**, making it suitable for global businesses
+💡 **Key Takeaways**  
+- Cut human review workload by **50–70%**  
+- Check large PDF collections **fast, securely, and in bulk**  
+- Ideal for legal, sales, and administrative departments
